@@ -1,7 +1,7 @@
-# Objetivos de la repositorio
+# Objetivos del repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Repositorio con el que aprendía a manejar Git y gitHub.
 
 
 ## Notas
-Pueden hacer lo que quieran...
+Curso de Udemy de Git+Github de Fernando Herrera.
